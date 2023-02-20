@@ -1,9 +1,12 @@
 #include <stdio.h>
-/*
-* First c function
-*/
 
-int main () {
-	printf("Hello world\n");
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	printf("Holberton School");
 	return (0);
 }
